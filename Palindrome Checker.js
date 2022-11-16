@@ -5,7 +5,6 @@ function palindrome(str) {
     if(str==strInvert){
       return true;
     }
-
-    
-
 }
+
+/*hello*\
